@@ -162,3 +162,31 @@ button {
   color: #FFF;
   background-color: #f92b49;
 }
+
+
+#footer {
+	margin-top: 30px;
+	background-color: #ebebeb;
+	padding: 50px 200px;
+	padding-right: 50px;
+}
+
+#footer-details {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.foot {
+	padding: 0 20px;
+}
+
+span {
+	display: flex;
+	justify-content: flex-end;
+
+}
+
+a {
+	text-decoration: none;
+	color: #f92b49
+}
